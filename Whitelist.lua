@@ -1,1 +1,10 @@
-1231312312
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
+warn("Te iubesc MAGII")
